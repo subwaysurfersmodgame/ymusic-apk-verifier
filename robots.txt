@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://subwaysurfersmodgame.github.io/ymusic-apk-verifier/sitemap.xml
